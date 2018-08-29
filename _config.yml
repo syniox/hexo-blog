@@ -67,7 +67,7 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 0
+per_page: 30
 pagination_dir: page
 
 # Extensions
@@ -78,4 +78,7 @@ theme: maupassant-hexo
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: GIT_DEPLOY_URL
+  name: qzkszj
+  email: suyue777@outlook.com
