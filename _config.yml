@@ -79,6 +79,6 @@ theme: maupassant-hexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: GIT_DEPLOY_URL
+  repo: https://GIT_CREDENTIALS@git.coding.net/qzkszj/qzkszj.coding.me.git
   name: qzkszj
   email: suyue777@outlook.com
