@@ -1,0 +1,5 @@
+.widget
+  .widget-title
+    = ' ' + __('Tags')
+  div.tagcloud
+    != tagcloud({min_font: 13, max_font: 16, amount: 100, orderby: 'count'})
