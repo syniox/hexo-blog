@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - node
+script: npm run build
+before_script:
+  - sed -i "s/GIT_DEPLOY_URL/${GIT_DEPLOY_URL}/" _config.yml
+deploy:
+  - provider: script
+    script: npm run deploy
+    on:
+      tags: true
+      all_branches: true
