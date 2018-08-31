@@ -2,6 +2,7 @@
 title: 常系数齐次线性递推
 date: 2018-08-28
 category: Note
+tag: [数论,DP]
 ---
 
 

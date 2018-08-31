@@ -2,6 +2,7 @@
 layout: post
 title: 反演&积性函数前缀和&狄利克雷卷积
 category: Note
+tag: [数论]
 ---
 
 ## 反演&积性函数前缀和&狄利克雷卷积
