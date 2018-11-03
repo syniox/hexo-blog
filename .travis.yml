@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-  - node
+  - 10
 script: npm run build
 before_script:
   - sed -i "s/GIT_CREDENTIALS/${GIT_CREDENTIALS}/" _config.yml
