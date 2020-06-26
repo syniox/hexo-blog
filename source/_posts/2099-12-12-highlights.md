@@ -6,36 +6,35 @@ category: Starred
 
 light x265: ipfilter16.asm ipfilter8.asm
 
-### ÍøÖ·
+### ç½‘å€
 
-- ¶àÃ½Ìå
+- å¤šåª’ä½“
   - [AOM progress](https://datastudio.google.com/reporting/a84c7736-99c3-4ff5-a9df-92deae923294/page/oDYAB)
   - [Vcodec](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/85271034)
-- Ó°ÊÓ×ÊÁÏ
-  - [Æ¬¿â](https://pianku.tv)
+- å½±è§†èµ„æ–™
+  - [ç‰‡åº“](https://pianku.tv)
   - [se7en: games](http://se7en.ws)  
   - [BFDZ(BT)](https://www.bfdz.ink)
   - [PTSHARE](http://www.ptshare.org/)
-  - [uTorrentÉèÖÃ](https://zhuanlan.zhihu.com/p/30937917)
-  - [ÊÓÆµ×¥È¡:hlsloader](https://www.hlsloader.com)
+  - [uTorrentè®¾ç½®](https://zhuanlan.zhihu.com/p/30937917)
+  - [è§†é¢‘æŠ“å–:hlsloader](https://www.hlsloader.com)
 - MC
-  - [mc1.12.2ÓÅ»¯](https://tieba.baidu.com/p/6014635071)
+  - [mc1.12.2ä¼˜åŒ–](https://tieba.baidu.com/p/6014635071)
   - [SEUS PTGI Download](https://yiff.party/patreon/4847727)
-  - [GTCE²âÊÔ](https://github.com/GregTecher/mc-tuning)
-- ¹¤¾ß
+  - [GTCEæµ‹è¯•](https://github.com/GregTecher/mc-tuning)
+- å·¥å…·
   - [vlmcsd](http://wind4.github.io/vlmcsd/)
-  - [chrome64Î»ÀëÏß°²×°°ü](https://www.google.com/chrome/?platform=win64&standalone=1)
-  - [Èí¼ş¼¯ºÏ:ºúÂÜ²·ÖÜ](http://www.carrotchou.blog/)
+  - [chrome64ä½ç¦»çº¿å®‰è£…åŒ…](https://www.google.com/chrome/?platform=win64&standalone=1)
+  - [è½¯ä»¶é›†åˆ:èƒ¡èåœå‘¨](http://www.carrotchou.blog/)
 
-
-[¸ßÖĞ¿Î±¾](http://www.kebenzhan.com)
-[AI·ÖÏí](https://blog.csdn.net/v_JULY_v)
+[é«˜ä¸­è¯¾æœ¬](http://www.kebenzhan.com)
+[AIåˆ†äº«](https://blog.csdn.net/v_JULY_v)
 [BZOJCH](http://ruanx.pw/bzojch/)  
-[¶ş´ÎÊ£Óà±Ê¼Ç](https://blog.csdn.net/a_crazy_czy/article/details/51959546)  
-[Gitub½¨Õ¾½Ì³Ì](http://yanping.me/cn/blog/2012/03/18/github-pages-step-by-step/)  
-[Microsoft±ÚÖ½](https://support.microsoft.com/zh-cn/help/18826)  
+[äºŒæ¬¡å‰©ä½™ç¬”è®°](https://blog.csdn.net/a_crazy_czy/article/details/51959546)  
+[Gitubå»ºç«™æ•™ç¨‹](http://yanping.me/cn/blog/2012/03/18/github-pages-step-by-step/)  
+[Microsoftå£çº¸](https://support.microsoft.com/zh-cn/help/18826)  
 
-### Èí¼ş±¸ÍüÂ¼
+### è½¯ä»¶å¤‡å¿˜å½•
 
 xnview
 wget,axel,aria2,annie
@@ -48,16 +47,16 @@ torcs,SEUS-PTGI, supercraft, phosphor
 spek
 genymotion,citra-emulator(3DS GAME Emulator)
 Intel Extreme Tuning Utility,HWiNFO
-Topaz AI Series: ÉèregeditÏÂµÄia0Îªiin
+Topaz AI Series: è®¾regeditä¸‹çš„ia0ä¸ºiin
 
 eyJhZGQiOiJyYXkuc3Nob2Nrd2F2ZS5uZXQiLCJhaWQiOiIyMzMiLCJob3N0IjoicmF5LnNzaG9ja3dhdmUubmV0IiwiaWQiOiI3ODZhODBjNi00ODU3LTQ5ZjctYjMzOC00MjgyNWY5NDUzMzAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoicmF5IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9vmess
 
 ### Starred List
 kz zst,df10,ep550,vsd1s
 AKG k323,Rock Zircon
-Ë÷Äá NWZ-B183F
+ç´¢å°¼ NWZ-B183F
 
-### x265²ÎÊıÏÖ×´
+### x265å‚æ•°ç°çŠ¶
 ```
 x265_v3.3 --y4m --clip.y4m --preset slower --no-amp --limit-sao --selective-sao=2 --psy-rd=1.5 --psy-rdoq=1.8 --aq-mode=4 --aq-strength=0.9 --no-open-gop --cbqpoffs -1 --crqpoffs -1 --crf 24
 ```
