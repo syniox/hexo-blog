@@ -103,6 +103,6 @@ markdown:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://GIT_CREDENTIALS@git.coding.net/qzkszj/qzkszj.coding.me.git
+  repo: https://GIT_CREDENTIALS@e.coding.net/qzkszj/qzkszj.coding.me.git
   name: qzkszj
   email: suyue777@outlook.com
