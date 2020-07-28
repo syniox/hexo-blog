@@ -2,6 +2,7 @@
 title: powerful-number
 date: 2020-07-26 21:53:37
 tags: ["数论"]
+category: Note
 ---
 
 定义大写函数为小写函数的前缀和。
