@@ -57,6 +57,8 @@ AKG k323,Rock Zircon
 索尼 NWZ-B183F
 
 ### x265参数现状
-```
+
 x265_v3.3 --y4m --clip.y4m --preset slower --no-amp --limit-sao --selective-sao=2 --psy-rd=1.5 --psy-rdoq=1.8 --aq-mode=4 --aq-strength=0.9 --no-open-gop --cbqpoffs -1 --crqpoffs -1 --crf 24
-```
+
+screen content: +=--tskip
+
