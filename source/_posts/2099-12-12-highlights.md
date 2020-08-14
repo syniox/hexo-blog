@@ -4,6 +4,11 @@ title: "[Pinned] Highlights"
 category: Starred
 ---
 
+### 一言
+- 不管是怎样的回忆，都是我们活过的人生。  ——Angel Beats!
+- 若结局不如你所愿，就在尘埃落定前奋力一搏。  ——夏目友人帐
+
+
 light x265: ipfilter16.asm ipfilter8.asm
 
 ### 网址
