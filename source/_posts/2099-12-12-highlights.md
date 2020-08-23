@@ -31,6 +31,7 @@ light x265: ipfilter16.asm ipfilter8.asm
   - [vlmcsd](http://wind4.github.io/vlmcsd/)
   - [chrome64位离线安装包](https://www.google.com/chrome/?platform=win64&standalone=1)
   - [软件集合:胡萝卜周](http://www.carrotchou.blog/)
+  - [零散坑（KMS等工具）](https://03k.org/kms.html)
 
 [高中课本](http://www.kebenzhan.com)
 [AI分享](https://blog.csdn.net/v_JULY_v)
