@@ -4,6 +4,14 @@ title: "[Pinned] Highlights"
 category: Starred
 ---
 
+### 一言
+
+- 不要用几十岁的心态，去过十几岁的人生。 ——网易云《Glow》热评
+- 什么都无法舍弃的人，什么都无法改变。 ——进击的巨人
+- 不管是怎样的回忆，都是我们活过的人生。  ——Angel Beats!
+- 若结局不如你所愿，就在尘埃落定前奋力一搏。  ——夏目友人帐
+
+
 light x265: ipfilter16.asm ipfilter8.asm
 
 ### 网址
@@ -26,6 +34,7 @@ light x265: ipfilter16.asm ipfilter8.asm
   - [vlmcsd](http://wind4.github.io/vlmcsd/)
   - [chrome64位离线安装包](https://www.google.com/chrome/?platform=win64&standalone=1)
   - [软件集合:胡萝卜周](http://www.carrotchou.blog/)
+  - [零散坑（KMS等工具）](https://03k.org/kms.html)
 
 [高中课本](http://www.kebenzhan.com)
 [AI分享](https://blog.csdn.net/v_JULY_v)
