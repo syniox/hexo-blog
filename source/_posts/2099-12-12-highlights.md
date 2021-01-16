@@ -16,6 +16,8 @@ light x265: ipfilter16.asm ipfilter8.asm
 
 ### 网址
 
+- 学习
+  - [fjjy试卷](http://sj.fjjy.org)
 - 多媒体
   - [AOM progress](https://datastudio.google.com/reporting/a84c7736-99c3-4ff5-a9df-92deae923294/page/oDYAB)
   - [Vcodec](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/85271034)
@@ -58,7 +60,8 @@ genymotion,citra-emulator(3DS GAME Emulator)
 Intel Extreme Tuning Utility,HWiNFO
 Topaz AI Series: 设regedit下的ia0为iin
 
-eyJhZGQiOiJyYXkuc3Nob2Nrd2F2ZS5uZXQiLCJhaWQiOiIyMzMiLCJob3N0IjoicmF5LnNzaG9ja3dhdmUubmV0IiwiaWQiOiI3ODZhODBjNi00ODU3LTQ5ZjctYjMzOC00MjgyNWY5NDUzMzAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoicmF5IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9vmess
+cloudflare:
+ew0KICAidiI6ICIyIiwNCiAgInBzIjogInJheWNsb3VkZmxhcmUiLA0KICAiYWRkIjogImNmcmF5LnNzaG9ja3dhdmUubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjFlMDQxZjNiLTU4MTYtNGJiOC1iZmU4LTFmYWY0NzlkZmM5NyIsDQogICJhaWQiOiAiNjQiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi93cyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
 ### Starred List
 kz zst,df10,ep550,vsd1s
@@ -70,4 +73,9 @@ AKG k323,Rock Zircon
 x265_v3.3 --y4m --clip.y4m --preset slower --no-amp --limit-sao --selective-sao=2 --psy-rd=1.5 --psy-rdoq=1.8 --aq-mode=4 --aq-strength=0.9 --no-open-gop --cbqpoffs -1 --crqpoffs -1 --crf 24
 
 screen content: +=--tskip
+
+### aomenc 10bit encoding enhancement
+
+--enable-cdef=0
+[调整播放器缓存](https://old.reddit.com/r/AV1/comments/gjq2mv/drastically_improving_av1_playback/)
 
